@@ -34,15 +34,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/bgldsn/test",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "test",
       "subhead": "Test Site",
@@ -56,6 +47,15 @@
           "component": "ui/GithubButton",
           "user": "bgldsn",
           "repo": "test"
+        }
+      ]
+    },
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/bgldsn/test",
+          "text": "GitHub"
         }
       ]
     },
